@@ -1,0 +1,157 @@
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\snyp_\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\IndentityANC\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_Entity\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\Login_TwoFactor\SQL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete

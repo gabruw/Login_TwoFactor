@@ -1,0 +1,20 @@
+﻿@model  TwoFactor
+
+<div class="row">
+    <div class="col-md-8">
+        <h1 class="text-center">2FA</h1>
+        <p>Please enter your code below</p>
+
+        <form class="form-horizontal" asp-action="TwoFactor" method="post">
+            <div class="form-group">
+                <label class="col-md-2" asp-for="Token"></label>
+                <div class="col-md-10">
+                    <input class="form-control" asp-for="Token" />
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <div asp-validation-summary="All"></div>
+        </form>
+    </div>
+</div>
